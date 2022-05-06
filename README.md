@@ -1,5 +1,5 @@
 # LING-583 Final Project
-# Intent Recognition for Customer Service Domain
+# Intent Recognition: Customer Service Domain
 
 INTRO:
 <br>
