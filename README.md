@@ -3,7 +3,7 @@
 
 INTRO:
 <br>
-Virtual assistants have become integral to the way that customers interact with their smart devices, providing human-like responses to commands, information, and often paired with other connected electronics in the home. In 2020, an estimated 4.2 billion digital voice assistants were being used around the world and is expected to reach 8.4 billion units by 2024 (Statista, 2022). One significant application of a text mining system is intent recognition in virtual assistant technology to handle basic customer service tasks.
+Virtual assistants have become integral to the way that customers interact with their smart devices, providing human-like responses to commands, information, and often paired with other connected electronics in the home. In 2020, an estimated 4.2 billion digital voice assistants were being used around the world and is expected to reach 8.4 billion units by 2024 (Statista, 2022). One significant application of a text mining system is intent recognition of spoken customer utterances that can be used in virtual assistant technology to handle basic customer service tasks.
 
 
 DATA:
