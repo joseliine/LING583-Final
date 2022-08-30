@@ -15,4 +15,4 @@ METHODS:
 The goal of this project is to create a model that can accurately predict the categorization of utterances spoken by customers. Since there are more than two possible class outcomes (i.e. the intents), we will be using multinomial classification. We’ll begin by conducting text cleaning/preprocessing where we will remove unnecessary characters, and then split the data into 80% training set and 20% test set. Next, we’ll apply classifier techniques to include Naive Bayes and Multiclass Support Vector Machine. Model performance will be evaluated using the accuracy scores (f1-scores) from our test set. Finally, we’ll discuss actionable intelligence that virtual assistant companies should consider based on our findings.
 
 
-For the full report, please contact Joseline at @jayala21452sdsu.edu
+For the full report, please contact Joseline at jayala2145@sdsu.edu
